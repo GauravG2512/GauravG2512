@@ -1,6 +1,15 @@
-Hi, I’m Gaurav Ghude
-I’m interested in developing and programming
-I am pursuing B.Tech in I.T. at Vidyalanakar Institute of technology, Wadala
-1st year student(2024-2028)
-I’m currently learning C,C++ and many more in future.
-How to reach me - gaurav.ghude@vit.edu.in, LInkedin :www.linkedin.com/in/gaurav-ghude-987b85258
+# Hi, I'm Gaurav
+
+I am a first-year B.Tech student in Information Technology at Vidyalankar Institute of Technology.  
+I am passionate about coding, tech innovation, and continuous learning.  
+I enjoy building software projects, exploring new tools, and solving real-world problems.  
+In my free time, I pursue photography, cycling, and exploring space and astronomy.
+
+## Skills:
+- Programming Languages: C, C++, Java  
+- Web Development: HTML, CSS, JavaScript  
+- Areas of Interest: AI, AR, Digital Media, Java Frameworks, Graphic designing
+
+## How to Reach Me
+- Email: gaurav.ghude@vit.edu.in  
+- LinkedIn: [www.linkedin.com/in/gaurav-ghude-987b85258](https://www.linkedin.com/in/gaurav-ghude-987b85258)
