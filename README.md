@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav
 
-I am a first-year B.Tech student in Information Technology at Vidyalankar Institute of Technology.  
+I am a second-year B.Tech student in Information Technology at Vidyalankar Institute of Technology.  
 I am passionate about coding, tech innovation, and continuous learning.  
 I enjoy building software projects, exploring new tools, and solving real-world problems.  
 In my free time, I pursue photography, cycling, and exploring space and astronomy.
