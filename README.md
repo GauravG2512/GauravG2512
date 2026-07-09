@@ -114,20 +114,6 @@ gaurav = {
 
 ---
 
-## Currently Leveling Up
-
-<div align="center">
-
-`System Design`        ▰▰▰▰▰▰▱▱▱▱ 60%  
-`Spring Boot`           ▰▰▰▰▰▰▰▱▱▱ 70%  
-`DevOps / CI-CD`        ▰▰▰▱▱▱▱▱▱▱ 30%  
-`Computer Vision`       ▰▰▰▰▰▰▰▰▱▱ 80%  
-`UI / Design Systems`   ▰▰▰▰▰▰▰▱▱▱ 70%
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
