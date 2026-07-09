@@ -195,15 +195,6 @@ gaurav = {
 
 ---
 
-## Random Dev Wisdom
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 ## Connect With Me
 
