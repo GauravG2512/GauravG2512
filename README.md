@@ -98,6 +98,36 @@ gaurav = {
 
 ---
 
+## What I'm Up To
+
+<div align="center">
+
+```text
+🔭  Currently building:   PRAVAAH ERP (Django, 19-app suite) · Intreccio Tech brand + app
+🌱  Currently exploring:  Computer vision pipelines for hackathon-ready tools (OCR/YOLO)
+🎯  Currently prepping:   SIH-style mini-project ideas + CHANAKYA Fellowship application
+🤝  Open to:              Hackathon teams, full-stack collabs, open-source contributions
+📸  When not coding:      Shooting travel/nature reels, cycling, stargazing
+```
+
+</div>
+
+---
+
+## Currently Leveling Up
+
+<div align="center">
+
+`System Design`        ▰▰▰▰▰▰▱▱▱▱ 60%  
+`Spring Boot`           ▰▰▰▰▰▰▰▱▱▱ 70%  
+`DevOps / CI-CD`        ▰▰▰▱▱▱▱▱▱▱ 30%  
+`Computer Vision`       ▰▰▰▰▰▰▰▰▱▱ 80%  
+`UI / Design Systems`   ▰▰▰▰▰▰▰▱▱▱ 70%
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -114,11 +144,33 @@ gaurav = {
 
 ---
 
+## Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GauravG2512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
 ## Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravG2512&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GauravG2512/GauravG2512/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — add the companion GitHub Action to keep this animated automatically.</sub>
 
 </div>
 
@@ -157,12 +209,23 @@ gaurav = {
 
 ---
 
+## Random Dev Wisdom
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 ## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-ghude-987b85258)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav.ghude@vit.edu.in)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![V-Reuse](https://img.shields.io/badge/V--Reuse_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vreuse.netlify.app)
 
 </div>
@@ -172,6 +235,10 @@ gaurav = {
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=GauravG2512&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/GauravG2512?style=for-the-badge&color=a78bfa&labelColor=0d1117)
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
