@@ -98,24 +98,6 @@ gaurav = {
 
 ---
 
-## What I'm Up To
-
-<div align="center">
-
-```text
-🔭  Currently building:   PRAVAAH ERP (Django, 19-app suite) · Intreccio Tech brand + app
-🌱  Currently exploring:  Computer vision pipelines for hackathon-ready tools (OCR/YOLO)
-🎯  Currently prepping:   SIH-style mini-project ideas + CHANAKYA Fellowship application
-🤝  Open to:              Hackathon teams, full-stack collabs, open-source contributions
-📸  When not coding:      Shooting travel/nature reels, cycling, stargazing
-```
-
-</div>
-
----
-
-## GitHub Stats
-
 ## GitHub Stats
 
 <div align="center">
