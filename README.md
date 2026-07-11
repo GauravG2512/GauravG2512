@@ -176,8 +176,7 @@ gaurav = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-ghude-987b85258)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav.ghude@vit.edu.in)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![V-Reuse](https://img.shields.io/badge/V--Reuse_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vreuse.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravghude2512)
 
 </div>
 
