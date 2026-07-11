@@ -156,8 +156,6 @@ gaurav = {
 
 <img src="https://raw.githubusercontent.com/GauravG2512/GauravG2512/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — add the companion GitHub Action to keep this animated automatically.</sub>
-
 </div>
 
 ---
