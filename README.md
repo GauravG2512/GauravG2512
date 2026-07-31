@@ -106,7 +106,7 @@ gaurav = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GauravG2512&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
+<img src="https://streak-stats.demolab.com?user=GauravG2512&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
 
 </div>
 <div>
