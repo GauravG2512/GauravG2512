@@ -105,10 +105,6 @@ gaurav = {
 <img src="https://github-stats-extended.vercel.app/api?username=GauravG2512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%"/><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GauravG2512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%"/>
 
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=GauravG2512&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
-
-</div>
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GauravG2512&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
 
