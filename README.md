@@ -27,12 +27,10 @@ gaurav = {
     "degree":     "B.Tech – Information Technology (2024–2028)",
     "year":       "3rd year",
     "location":   "Mumbai, India",
-    "currently":  ["Squad Sync", "VoyageIQ", "POLARIS (Sem V project)"],
     "focus":      ["Machine Learning", "Data Engineering", "Full Stack Development"],
-    "learning":   ["System Design", "Spring Boot", "LLM Agents (LangGraph)"],
-    "interests":  ["AI/ML", "Data Warehousing", "Civic Tech", "Space Tech"],
+    "learning":   ["System Design"],
+    "interests":  ["AI/ML", "Data Warehousing", "Space Tech"],
     "hobbies":    ["Photography", "Cycling", "Astronomy"],
-    "fun_fact":   "I shipped V-Reuse, a real campus marketplace used by VIT students",
 }
 ```
 
